@@ -1,5 +1,4 @@
-const input = document.getElementById('name');
-const btn = document.querySelector('button')
+// 1
 const userName = 'admin';
 const balance = 11;
 
